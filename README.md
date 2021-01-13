@@ -1,2 +1,2 @@
 # Autoencoder
-Sparse Autoencoder for Image data
+## Sparse Autoencoder for Image Data
